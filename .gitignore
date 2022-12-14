@@ -2,3 +2,5 @@
 *.env
 test-runs/logs/*
 *.csv
+#new text added
+*.txt
